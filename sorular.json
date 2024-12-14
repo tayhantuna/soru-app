@@ -1,0 +1,15 @@
+[
+  {"question": "Flutter hangi dil ile yazılır?", "options": ["Dart", "Java", "Python", "C++"], "answer": 0},
+  {"question": "Flutter ile hangi platforma uygulama geliştirilemez?", "options": ["iOS", "Web", "Windows", "Mac"], "answer": 1},
+  {"question": "Flutter'ın temel yapı taşı nedir?", "options": ["Widget", "Class", "State", "Object"], "answer": 0},
+  {"question": "Dart dili kim tarafından geliştirilmiştir?", "options": ["Microsoft", "Apple", "Google", "Facebook"], "answer": 2},
+  {"question": "State yönetimi için kullanılan bir yöntem nedir?", "options": ["Redux", "FlutterBloc", "Riverpod", "Tümü"], "answer": 3},
+  {"question": "Hot Reload ne işe yarar?", "options": ["Uygulama hızını artırır", "Kodun hızlı test edilmesini sağlar", "Dil çevirisi yapar", "Animasyon ekler"], "answer": 1},
+  {"question": "Widget'lar ne için kullanılır?", "options": ["UI oluşturmak", "API çağırmak", "State yönetmek", "Kod yazmak"], "answer": 0},
+  {"question": "Flutter hangi yılda yayınlandı?", "options": ["2015", "2017", "2018", "2019"], "answer": 2},
+  {"question": "Flutter’ın sahibi kimdir?", "options": ["Apple", "Google", "Microsoft", "Amazon"], "answer": 1},
+  {"question": "StatefulWidget ne işe yarar?", "options": ["Sabit UI", "Dinamik UI", "Veritabanı işlemleri", "Kod oluşturma"], "answer": 1},
+  {"question": "Flutter'ın dili Dart’ın temel avantajı nedir?", "options": ["Hızlı", "Kolay", "C++ Tabanlı", "Objektif"], "answer": 0},
+  {"question": "Flutter'ın stable sürümü ne zaman çıktı?", "options": ["2017", "2018", "2019", "2020"], "answer": 1},
+  {"question": "Flutter hangi yılda çıkmaya başladı?", "options": ["2014", "2015", "2016", "2017"], "answer": 1}
+]
